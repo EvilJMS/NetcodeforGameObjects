@@ -11,7 +11,7 @@ Library: D:\UnityProyectos\UwUProyecto\Temp\BurstOutput\Data\Plugins\x86_64\lib_
 --linker-options=PdbAltPath="UwUProyecto_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\UnityProyectos\UwUProyecto\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Users/josep/Desktop/6000.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\UnityProyectos\UwUProyecto\Library\Burst
 --output=D:\UnityProyectos\UwUProyecto\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -128,7 +128,7 @@ Library: D:\UnityProyectos\UwUProyecto\Temp\BurstOutput\Data\Plugins\x86_64\lib_
 --linker-options=PdbAltPath="UwUProyecto_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\UnityProyectos\UwUProyecto\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Users/josep/Desktop/6000.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\UnityProyectos\UwUProyecto\Library\Burst
 --output=D:\UnityProyectos\UwUProyecto\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -245,7 +245,7 @@ Library: D:\UnityProyectos\UwUProyecto\Temp\BurstOutput\Data\Plugins\x86_64\lib_
 --linker-options=PdbAltPath="UwUProyecto_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\UnityProyectos\UwUProyecto\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Users/josep/Desktop/6000.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\UnityProyectos\UwUProyecto\Library\Burst
 --output=D:\UnityProyectos\UwUProyecto\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -311,7 +311,7 @@ Library: D:\UnityProyectos\UwUProyecto\Temp\BurstOutput\Data\Plugins\x86_64\lib_
 --linker-options=PdbAltPath="UwUProyecto_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\UnityProyectos\UwUProyecto\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Users/josep/Desktop/6000.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\UnityProyectos\UwUProyecto\Library\Burst
 --output=D:\UnityProyectos\UwUProyecto\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -379,7 +379,7 @@ Library: D:\UnityProyectos\UwUProyecto\Temp\BurstOutput\Data\Plugins\x86_64\lib_
 --linker-options=PdbAltPath="UwUProyecto_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\UnityProyectos\UwUProyecto\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Users/josep/Desktop/6000.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\UnityProyectos\UwUProyecto\Library\Burst
 --output=D:\UnityProyectos\UwUProyecto\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -400,7 +400,7 @@ Library: D:\UnityProyectos\UwUProyecto\Temp\BurstOutput\Data\Plugins\x86_64\lib_
 --linker-options=PdbAltPath="UwUProyecto_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\UnityProyectos\UwUProyecto\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Users/josep/Desktop/6000.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\UnityProyectos\UwUProyecto\Library\Burst
 --output=D:\UnityProyectos\UwUProyecto\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
